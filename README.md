@@ -3,15 +3,16 @@
 
 # Why?
 
-* filter bubble
-* ????
+* burst the filter bubble
+* raise the bar of debates
+* promote in-depth exploration
+* challenge personal opinions
 
 # What?
 
 * debate
 * points of view
 * better judgements
-* extrapolate personal opinion
 * knowledge
 * consciousness
 * media
@@ -24,9 +25,6 @@
 * influential
 * equal space
 * popularize
-* raise the bar
-* bubble burst
-* in-depth exploration
 * collectivelly
 * global and local
 * engaging authors
