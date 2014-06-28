@@ -7,6 +7,7 @@
 * raise the bar of debates
 * promote in-depth exploration
 * challenge personal opinions
+* avoid/fight polarization
 
 # What?
 
