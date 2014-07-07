@@ -38,4 +38,5 @@
 
 * [Ideas from brainstorm](Brainstorm.md)
 * [Comparison with debates promoted by printed newspapers](Newspapers.md)
+* [Why not *disputatio*](Disputatio.md)
 * [Complete survey answers](http://goo.gl/TSgnmq)
