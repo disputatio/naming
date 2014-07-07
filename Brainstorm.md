@@ -20,6 +20,8 @@
 * Better Arguments
 * counterpoint
 * pointcounterpoint 
+* angle / angles
+* ngle / ngles
 
 ## Names domain style
  
@@ -63,4 +65,4 @@
 * perspective.io
 * viewpoint.io
  
-*Last update: Jun 27, 2014.*
+*Last update: Jul 7, 2014.*
