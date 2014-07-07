@@ -37,4 +37,5 @@
 # Other resources
 
 * [Ideas from brainstorm](Brainstorm.md)
+* [Comparison with debates promoted by printed newspapers](Newspapers.md)
 * [Complete survey answers](http://goo.gl/TSgnmq)
