@@ -32,10 +32,11 @@
 * great readability
 * great UX
 
-----
+---
 
 # Other resources
 
+* [Possible domains](Domains.md)
 * [Ideas from brainstorm](Brainstorm.md)
 * [Comparison with debates promoted by printed newspapers](Newspapers.md)
 * [Why not *disputatio*](Disputatio.md)
