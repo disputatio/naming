@@ -1,5 +1,6 @@
 # Possible domains
 
+* perspectiva.us
 * perspectiva.io
 * perspectiva.museum
 * pers.pectiv.as
