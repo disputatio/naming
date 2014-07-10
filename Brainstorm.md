@@ -64,5 +64,10 @@
 * mediator.io
 * perspective.io
 * viewpoint.io
- 
-*Last update: Jul 7, 2014.*
+* someangl.es
+* twoangl.es
+* n.angles
+* angles.me
+* nangl.es
+
+*Last update: Jul 10, 2014.*
